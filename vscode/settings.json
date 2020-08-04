@@ -15,5 +15,7 @@
     "git.enableSmartCommit": true,
     "files.trimTrailingWhitespace": true,
     "files.eol": "\n",
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "javascript.suggest.autoImports":true,
+    "typescript.suggest.autoImports":true,
 }
