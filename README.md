@@ -1,1 +1,1 @@
-# my-configs
+# Keeping track of reusable configuration files

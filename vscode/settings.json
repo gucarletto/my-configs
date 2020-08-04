@@ -1,0 +1,19 @@
+{
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "material-icon-theme.activeIconPack": "react",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "emmet.syntaxProfiles": {"javascript": "jsx"},
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "editor.rename.enablePreview": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "files.trimTrailingWhitespace": true,
+    "files.eol": "\n",
+    "explorer.compactFolders": false
+}
