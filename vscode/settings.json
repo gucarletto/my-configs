@@ -2,6 +2,7 @@
     "editor.tabSize": 2,
     "editor.detectIndentation": false,
     "material-icon-theme.activeIconPack": "react",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "emmet.syntaxProfiles": {"javascript": "jsx"},
@@ -18,4 +19,5 @@
     "explorer.compactFolders": false,
     "javascript.suggest.autoImports":true,
     "typescript.suggest.autoImports":true,
+    "editor.wordSeparators":"`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
 }
