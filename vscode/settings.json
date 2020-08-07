@@ -1,6 +1,9 @@
 {
     "editor.tabSize": 2,
     "editor.detectIndentation": false,
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontLigatures": true,
     "material-icon-theme.activeIconPack": "react",
     "workbench.iconTheme": "material-icon-theme",
     "editor.suggestSelection": "first",
